@@ -1,12 +1,12 @@
 # Hi 👋, I am Harshini S
 
-### Frontend Developer | UI/UX Designer 
+### FullStack Developer | UI/UX Designer 
 
 I'm a detail-oriented full-stack developer with strong expertise in building responsive and secure web applications using the MERN stack, implementing authentication workflows, and designing clean, user-friendly interfaces. Continuously learning and focused on delivering efficient, high-quality digital solutions.
 
 - 🎓 B.E. in Computer Science and Engineering (Artificial Intelligence and Machine Learning)
 - 🌱 I'm based in **Coimbatore, India**
-- 🔭 I'm currently focusing on **Frontend Development, UI/UX Design, and building user-friendly web interfaces**.
+- 🔭 I'm currently focusing on **Frontend Development, UI/UX Design, and building user-friendly web interfaces, along with Backend Development including APIs and database management.**.
 - You can contact me at harshisvc@gmail.com
 
 
